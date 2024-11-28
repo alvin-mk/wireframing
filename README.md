@@ -30,5 +30,5 @@
 - Used for: Getting stakeholder buy-in on the design direction, refining the user flow, and providing a foundation for visual design.
   
 **Identifying Wireframe Type**
-The wireframes provided in the image appear to be high-fidelity wireframes. They include visual elements like colors, fonts, and basic styling, and they show a good amount of detail in terms of layout and content placement.
+- The wireframes provided in the image appear to be high-fidelity wireframes. They include visual elements like colors, fonts, and basic styling, and they show a good amount of detail in terms of layout and content placement.
   
