@@ -25,4 +25,7 @@
   
 **Low-Fidelity Wireframes**:  These are basic sketches or outlines with simple shapes and lines. They focus on the overall layout and functionality without any visual design elements.
 - Used for: Rapidly iterating on design ideas, getting early user feedback, and establishing a basic structure before adding visual details.
+
+**High-Fidelity Wireframes**:  These are more detailed wireframes that might include some visual design elements like fonts and colors. They provide a clearer picture of the final product but still focus on functionality.
+- Used for: Getting stakeholder buy-in on the design direction, refining the user flow, and providing a foundation for visual design.
   
