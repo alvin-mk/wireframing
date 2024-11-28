@@ -9,3 +9,9 @@
 **Saves Time and Money**: Identifying and fixing issues early with wireframes is more efficient than making changes later in the development process.
 
 ### Key Elements of Wireframing
+- A good wireframe should consider these key elements:
+**Layout Structure**: This refers to the overall organization of the page, including sections, content blocks, and white space.
+  
+**Navigation**:  How users will move around the website or app. This includes menus, buttons, and other elements that allow users to access different features.
+**Content Placement**:  Decides where different types of content (text, images, videos) will be displayed on the page.
+  
