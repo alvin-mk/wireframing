@@ -10,8 +10,17 @@
 
 ### Key Elements of Wireframing
 - A good wireframe should consider these key elements:
+- 
 **Layout Structure**: This refers to the overall organization of the page, including sections, content blocks, and white space.
   
 **Navigation**:  How users will move around the website or app. This includes menus, buttons, and other elements that allow users to access different features.
+
 **Content Placement**:  Decides where different types of content (text, images, videos) will be displayed on the page.
+
+**Functionality**:  Represents how interactive elements on the page will work (forms, search bars, drop-down menus).
+
+###  Low-Fidelity vs. High-Fidelity Wireframes
+- Types of Wireframes:
+- There are two main types of wireframes:
+**Low-Fidelity Wireframes**:  These are basic sketches or outlines with simple shapes and lines. They focus on the overall layout and functionality without any visual design elements.
   
