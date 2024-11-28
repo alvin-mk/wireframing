@@ -22,6 +22,7 @@
 ###  Low-Fidelity vs. High-Fidelity Wireframes
 - Types of Wireframes:
 - There are two main types of wireframes:
-- 
+  
 **Low-Fidelity Wireframes**:  These are basic sketches or outlines with simple shapes and lines. They focus on the overall layout and functionality without any visual design elements.
+- Used for: Rapidly iterating on design ideas, getting early user feedback, and establishing a basic structure before adding visual details.
   
