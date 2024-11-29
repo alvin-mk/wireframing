@@ -37,8 +37,8 @@
 - Figma
 - Sketch
 - Adobe XD
-- 
-**Choice** For this project I will choose Figma
+  
+**Perfect Choice** For this project I will choose Figma
 ### Why Figma is Great for Wireframing:
 - Figma is a web-based tool that allows for collaborative editing, making it easy for teams to work on wireframes together.
 - It offers a wide range of features for creating low-fidelity and high-fidelity wireframes.
